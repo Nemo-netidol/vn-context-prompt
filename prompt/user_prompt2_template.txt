@@ -1,0 +1,3 @@
+User selected: "Investigate the sound together", the previous text was "{previous_text}".
+
+Based on this selection, please continue the visual novel story, generating a few lines of dialogue or narration. Only generate a few lines, not too long, but generate an option in the end. Be reasonable and imaginative and based on the format.

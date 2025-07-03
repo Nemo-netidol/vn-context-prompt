@@ -1,0 +1,21 @@
+--In the heart of the vibrant kingdom of Eldoria, where magic danced in the air like fireflies at dusk, a festival was underway. Stalls adorned with glittering fabrics and enchanting trinkets lined the cobblestone streets, and the laughter of children mingled with the sweet melodies of musicians playing nearby. The sky was painted in hues of orange and purple as the sun dipped below the horizon, casting a magical glow on the kingdom.--
+
+"Look at all the colors! I can't believe I’ve never been to the Luminary Festival before!" : Lirael
+
+"There's so much to see and do! Let's make sure we try everything before the night is over." : Thorne
+
+--The camera pans to Lirael, a spirited young mage with a talent for elemental magic, her blue robes billowing around her as a gentle breeze swirls. Beside her stands Thorne, a brooding knight with a keen sense for danger, his armor gleaming beneath the festival lights. They are lifelong friends, united by their shared yearning for adventure and the unknown.--
+
+"Do you think we should head to the Spire of Wonders first? I heard there’s a fortune teller who can see glimpses of the future!" : Lirael
+
+"Or we could visit the alchemist's booth. I need to replenish my potion supplies for our next quest." : Thorne
+
+--As they walk through the bustling crowd, the air thickens with the scent of blooming jasmine and roasted chestnuts. Lirael pauses, sensing a shift in the atmosphere. The laughter dims, and a low rumble echoes from the edge of the festival grounds. A shadow looms over the fair, sending a shiver down Lirael’s spine.--
+
+"What was that? It didn't sound like just thunder..." : Lirael
+
+"I think we should investigate. It could be dangerous, but it might be something magical!" : Thorne
+
+--As the pair exchange glances, unsure yet exhilarated, the choice lies before them.--
+
+"What should we do?":["Investigate the sound together|Visit the fortune teller first|Go to the alchemist's booth"]

@@ -1,0 +1,13 @@
+--The thrill of uncertainty ignites their adventurous spirits as Lirael and Thorne decide to embrace the unknown. They make their way toward the source of the ominous sound, weaving through startled festival-goers who look around with wide eyes. The air grows colder, and an eerie glow emerges from between the trees at the edge of the grounds, flickering like a restless flame.--
+
+"Do you feel that? It's almost like... the magic in the air is shifting." : Lirael
+
+"Stay close, Lirael. We don't know what we might find." : Thorne
+
+--As they approach, the shadows coalesce into a figure, a silhouette wreathed in sparks of energy. The scent of ozone fills their lungs, and the sound of crackling magic hangs in the air. With hearts racing, they step closer, bracing for whatever may come next.--
+
+"Should we speak to it? It might not be dangerous if we approach with caution." : Lirael
+
+"Or we could retreat for now and gather more information. Better safe than sorry." : Thorne
+
+"What should we do?":["Speak to the figure cautiously|Retreat and gather more information|Prepare for a defense if needed"]
