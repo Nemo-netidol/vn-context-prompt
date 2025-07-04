@@ -10,11 +10,21 @@ def extract_option_from_text(response, selectedChoice):
 
 # Load files
 user_prompt2_template = open("prompt/user_prompt2_template.txt").read()
-user_prompt1 = open("prompt/user_prompt1_fantasy.txt").read()
+
+# Ask user to choose theme of the vn
+theme = input("What VN theme do you prefer(fantasy, adventure, science): ")
+
+if (theme != "fantasy") and (theme != "adventure") and (theme != "science"):
+    print("There is no such theme for visual novel right now. Choosing fantasy theme....")
+
+user_prompt1 = open(f"prompt/user_prompt1_{theme}.txt").read()
 
 # First generation
+print("🌟STORY: \n")
 context = generate_context(user_prompt1)
-print(context)
+print(context, end="\n")
+
+
 
 while True:
     userInput = input("Select choice (A/B/C or exit): ").strip().upper()
@@ -29,3 +39,4 @@ while True:
     # Generate next part
     prompt2_context = generate_context(user_prompt2)
     print(prompt2_context)
+    print("\n")
